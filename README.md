@@ -1,2 +1,2 @@
-# metric-poc
+# metrics-poc
 metrics go poc
